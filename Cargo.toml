@@ -1,0 +1,5 @@
+[package]
+name = "tls"
+version = "0.1.0"
+authors = ["Jens <jens@nockert.se>"]
+build = "build.rs"
